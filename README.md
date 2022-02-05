@@ -1,2 +1,2 @@
 # weather-app
-weather app prototype with dark and light mode
+iOS Weather app prototype with dark and light mode
